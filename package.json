@@ -1,6 +1,6 @@
 {
-  "name": "later",
-  "version": "1.2.0",
+  "name": "later-fixed",
+  "version": "1.0.0",
   "description": "Determine later (or previous) occurrences of recurring schedules",
   "keywords": [
     "schedule",
@@ -8,10 +8,10 @@
     "recur",
     "cron"
   ],
-  "author": "BunKat <bill@levelstory.com>",
+  "author": "AhmadSh <ahmadshabib94@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bunkat/later.git"
+    "url": "git://github.com/ahmadshabib/later.git"
   },
   "main": "index.js",
   "browserify": "index-browserify.js",
